@@ -1,31 +1,19 @@
 {
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2022-05-16 10:15:22 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2022-05-16 10:15:23 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-05-16 10:15:22 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "in_water": "2022-05-16 10:10:50 +0200"
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_log": "2022-05-16 10:11:15 +0200"
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
     },
     "done": true
   },
@@ -35,15 +23,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_stick": "2022-05-16 10:15:23 +0200"
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_planks": "2022-05-16 10:15:22 +0200"
+      "get_stone": "2022-05-16 11:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
     },
     "done": true
   },
@@ -51,15 +45,10 @@
     "criteria": {
       "minecraft:river": "2022-05-16 10:11:00 +0200",
       "minecraft:dripstone_caves": "2022-05-16 10:07:30 +0200",
-      "minecraft:forest": "2022-05-16 10:10:55 +0200"
+      "minecraft:forest": "2022-05-16 10:10:55 +0200",
+      "minecraft:meadow": "2022-05-16 11:08:55 +0200"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2022-05-16 10:11:15 +0200"
-    },
-    "done": true
   },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
@@ -73,33 +62,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2022-05-16 10:15:23 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2022-05-16 10:15:22 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2022-05-16 10:15:16 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_planks": "2022-05-16 10:15:22 +0200"
+      "has_stick": "2022-05-16 10:15:23 +0200"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2022-05-16 10:15:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
     },
     "done": true
   },
@@ -121,15 +104,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2022-05-16 10:15:22 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_salmon": "2022-05-16 10:15:48 +0200"
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
     },
     "done": true
   },
@@ -139,49 +128,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2022-05-16 10:15:22 +0200"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2022-05-16 10:15:16 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2022-05-16 10:10:50 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "in_water": "2022-05-16 10:10:50 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2022-05-16 10:15:23 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2022-05-16 10:15:22 +0200"
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
     },
     "done": true
   },
   "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2022-05-16 10:15:22 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2022-05-16 10:15:22 +0200"
     },
@@ -196,6 +155,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-05-16 10:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2022-05-16 11:08:45 +0200"
     },
     "done": true
   },
@@ -214,6 +179,138 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2022-05-16 10:15:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-05-16 10:15:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-05-16 10:15:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 10:10:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-05-16 10:11:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-05-16 10:15:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-05-16 10:15:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-05-16 10:11:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-05-16 10:15:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-05-16 10:15:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-05-16 10:15:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-05-16 10:15:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-05-16 10:15:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 10:10:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-05-16 10:15:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-05-16 10:15:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2022-05-16 11:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-05-16 10:15:22 +0200"
     },
     "done": true
   },
