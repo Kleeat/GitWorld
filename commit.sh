@@ -4,4 +4,3 @@ git checkout main
 git add .
 git commit -am "Update"
 git push
-read
