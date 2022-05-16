@@ -1,4 +1,5 @@
 #!/bin/sh
+@Echo off
 cd C:\Users\senas\AppData\Roaming\.minecraft\saves\GitWorld
 git checkout main
 git add .
