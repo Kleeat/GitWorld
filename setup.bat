@@ -1,4 +1,8 @@
-@echo off
+
 start C:\Users\senas\AppData\Roaming\.minecraft\saves\GitWorld\pull.sh
-/wait "D:\Games\runtime\java-runtime-beta\windows-x64\java-runtime-beta\bin\javaw.exe"
+:begin
+TASKLIST | FINDSTR javaw.exe || goto end
+goto begin
+:end
 start C:\Users\senas\AppData\Roaming\.minecraft\saves\GitWorld\commit.sh
+EXIT
