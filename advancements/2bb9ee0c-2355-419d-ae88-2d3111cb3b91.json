@@ -330,6 +330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-22 12:50:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-16 19:08:20 +0200"
@@ -339,6 +345,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2022-05-17 13:58:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-05-22 11:51:21 +0200"
     },
     "done": true
   },
@@ -363,6 +375,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-05-16 19:19:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-22 12:50:55 +0200"
     },
     "done": true
   },
@@ -527,6 +545,7 @@
       "minecraft:skeleton": "2022-05-16 19:45:08 +0200",
       "minecraft:spider": "2022-05-16 19:44:51 +0200",
       "minecraft:creeper": "2022-05-16 19:44:34 +0200",
+      "minecraft:slime": "2022-05-22 12:54:24 +0200",
       "minecraft:witch": "2022-05-19 17:32:16 +0200",
       "minecraft:enderman": "2022-05-21 15:18:28 +0200",
       "minecraft:zombie": "2022-05-16 20:32:06 +0200",
@@ -534,6 +553,12 @@
       "minecraft:zombie_villager": "2022-05-20 14:27:22 +0200"
     },
     "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-05-22 11:55:40 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -634,6 +659,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-16 19:08:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-05-22 12:42:16 +0200"
     },
     "done": true
   },
@@ -739,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-22 12:50:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2022-05-16 19:44:53 +0200"
@@ -766,6 +803,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-16 19:08:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-05-22 11:51:21 +0200"
     },
     "done": true
   },
@@ -820,6 +863,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-05-16 19:31:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-05-22 11:51:15 +0200"
     },
     "done": true
   },
@@ -999,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-05-22 11:51:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2022-05-16 18:58:00 +0200"
@@ -1092,6 +1147,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2022-05-20 15:49:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2022-05-22 11:54:56 +0200"
     },
     "done": true
   },
@@ -1218,6 +1279,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-16 19:08:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-05-22 11:51:21 +0200"
     },
     "done": true
   },
@@ -1708,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-05-22 11:40:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-05-16 19:09:17 +0200"
@@ -1768,6 +1841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-05-22 12:42:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2022-05-21 14:37:59 +0200"
@@ -1795,6 +1874,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-05-16 19:07:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-05-22 12:42:16 +0200"
     },
     "done": true
   },
@@ -2134,6 +2219,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-05-22 11:40:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2022-05-16 20:26:26 +0200"
@@ -2276,6 +2367,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2022-05-16 19:43:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-05-22 12:16:12 +0200"
     },
     "done": true
   },
