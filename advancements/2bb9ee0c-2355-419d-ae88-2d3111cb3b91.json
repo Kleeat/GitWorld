@@ -113,12 +113,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2022-05-23 11:56:51 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-05-16 18:45:39 +0200"
@@ -236,12 +230,6 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2022-05-21 14:37:59 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2022-05-23 11:55:00 +0200"
     },
     "done": true
   },
@@ -570,7 +558,6 @@
       "minecraft:spider": "2022-05-16 19:44:51 +0200",
       "minecraft:creeper": "2022-05-16 19:44:34 +0200",
       "minecraft:slime": "2022-05-22 12:54:24 +0200",
-      "minecraft:phantom": "2022-05-23 11:53:44 +0200",
       "minecraft:witch": "2022-05-19 17:32:16 +0200",
       "minecraft:enderman": "2022-05-21 15:18:28 +0200",
       "minecraft:zombie": "2022-05-16 20:32:06 +0200",
@@ -618,12 +605,6 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2022-05-19 17:48:40 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2022-05-23 11:56:51 +0200"
     },
     "done": true
   },
@@ -807,12 +788,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2022-05-23 12:00:28 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2022-05-16 18:43:57 +0200"
@@ -876,12 +851,6 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2022-05-16 19:19:18 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2022-05-23 12:00:28 +0200"
     },
     "done": true
   },
@@ -1089,24 +1058,17 @@
       "minecraft:frozen_river": "2022-05-16 18:47:34 +0200",
       "minecraft:birch_forest": "2022-05-18 16:08:10 +0200",
       "minecraft:windswept_hills": "2022-05-17 13:46:54 +0200",
-      "minecraft:bamboo_jungle": "2022-05-23 11:56:46 +0200",
       "minecraft:beach": "2022-05-17 13:27:40 +0200",
-      "minecraft:dark_forest": "2022-05-23 11:44:36 +0200",
-      "minecraft:sparse_jungle": "2022-05-23 12:02:56 +0200",
       "minecraft:river": "2022-05-16 20:33:17 +0200",
-      "minecraft:lukewarm_ocean": "2022-05-23 12:05:02 +0200",
       "minecraft:snowy_plains": "2022-05-16 18:52:12 +0200",
-      "minecraft:stony_shore": "2022-05-23 12:04:07 +0200",
       "minecraft:snowy_taiga": "2022-05-16 18:09:49 +0200",
       "minecraft:dripstone_caves": "2022-05-18 16:09:00 +0200",
       "minecraft:swamp": "2022-05-17 14:27:59 +0200",
-      "minecraft:grove": "2022-05-23 11:42:24 +0200",
       "minecraft:cold_ocean": "2022-05-17 14:25:29 +0200",
       "minecraft:forest": "2022-05-16 20:33:30 +0200",
       "minecraft:lush_caves": "2022-05-16 19:08:16 +0200",
       "minecraft:frozen_ocean": "2022-05-16 20:31:24 +0200",
       "minecraft:ocean": "2022-05-17 14:26:31 +0200",
-      "minecraft:jungle": "2022-05-23 11:58:59 +0200",
       "minecraft:snowy_beach": "2022-05-16 20:30:48 +0200",
       "minecraft:old_growth_birch_forest": "2022-05-21 14:18:00 +0200",
       "minecraft:meadow": "2022-05-17 14:46:44 +0200",
@@ -1290,12 +1252,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2022-05-23 11:59:18 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2022-05-22 16:27:47 +0200"
@@ -1353,12 +1309,6 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-05-16 18:46:15 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2022-05-23 11:59:18 +0200"
     },
     "done": true
   },
@@ -1767,7 +1717,6 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:turtle": "2022-05-23 12:09:18 +0200",
       "minecraft:sheep": "2022-05-20 15:51:26 +0200"
     },
     "done": false
@@ -1931,12 +1880,6 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2022-05-16 19:19:18 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2022-05-23 11:55:00 +0200"
     },
     "done": true
   },
@@ -2658,12 +2601,6 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-05-16 18:57:29 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2022-05-23 11:56:51 +0200"
     },
     "done": true
   },
